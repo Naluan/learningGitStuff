@@ -1,4 +1,5 @@
 def summer(a: float, b: float) -> int:
+    """Return the sum of a, b"""
     c = a + b
     print(a + b)
     return c
