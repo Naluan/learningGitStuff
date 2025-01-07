@@ -10,7 +10,6 @@ def differ(a, b):
 for i in range(8):
     print(f"i: {i}")
 
-
 num1:float = 2.3  
 num2:float = 4.3
 result = summer(num1, num2)
