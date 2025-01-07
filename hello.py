@@ -1,7 +1,7 @@
 def summer(a: float, b: float) -> int:
     """Return the sum of a, b"""
     c = a + b
-    print(a + b)
+    print(f"{c} some f-striong so taht we can see")
     return c
 
 def differ(a, b):
