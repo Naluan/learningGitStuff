@@ -7,7 +7,7 @@ def differ(a, b):
     print(a - b)
 
 for i in range(8):
-    print(i)
+    print(f"i: {i}")
 
 
 num1:float = 2.3  
